@@ -1,0 +1,127 @@
+header {
+    box-sizing: border-box;
+    position: absolute;
+    width: 800px;
+    height: 80px;
+    left: 50px;
+    top: 26px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    padding-left: 23px;
+    text-align: center;
+}
+
+.paella {
+    box-sizing: border-box;
+    position: absolute;
+    width: 801px;
+    height: 284px;
+    left: 49px;
+    top: 136px;
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
+
+
+.ingredients {
+    
+    box-sizing: border-box;
+    position: absolute;
+    width: 550px;
+    height: 350px;
+    left: 49px;
+    top: 450px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.ingr_title{
+    text-align: center;
+}
+
+
+.list {
+    font-size: large;
+    top: 472px;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 47px;
+    color: #000000;
+    list-style: none;
+}
+
+.time {
+    font-size: larger;
+    box-sizing: border-box;
+    position: absolute;
+    width: 194px;
+    height: 350px;
+    left: 656px;
+    top: 450px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+.preparation_time_title {
+    text-align: left;
+    margin-left: 15px;
+}
+.preparation_time {
+    box-sizing: border-box;
+    position: absolute;
+    left: 44px;
+    bottom: 190px;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+.cooking_time_title {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 75px;
+}
+
+.cooking_time {
+    text-align: center;
+    box-sizing: border-box;
+    position: absolute;
+    left: 44px;
+    bottom: 95px;
+    border: 1px solid #000000;
+    padding: 10px;
+    padding-right: 32px;
+}
+
+.preparation {
+    box-sizing: border-box;
+    position: absolute;
+    width: 550px;
+    height: 370px;
+    left: 49px;
+    top: 857px;
+    padding-right: 10px;
+    border: 1px solid #000000;
+}
+
+
+.preparation_title {
+    text-align: center;
+    margin-left: 15px;
+   
+}
+
+footer {
+    box-sizing: border-box;
+    position: absolute;
+    width: 800px;
+    height: 40px;
+    left: 50px;
+    top: 1249px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    text-align: center;
+}
